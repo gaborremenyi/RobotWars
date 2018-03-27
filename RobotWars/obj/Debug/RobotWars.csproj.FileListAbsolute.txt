@@ -1,0 +1,7 @@
+c:\users\gabor\source\repos\RobotWars\RobotWars\bin\Debug\RobotWars.exe.config
+c:\users\gabor\source\repos\RobotWars\RobotWars\bin\Debug\RobotWars.exe
+c:\users\gabor\source\repos\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+c:\users\gabor\source\repos\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
+c:\users\gabor\source\repos\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.CoreCompileInputs.cache
+c:\users\gabor\source\repos\RobotWars\RobotWars\obj\Debug\RobotWars.exe
+c:\users\gabor\source\repos\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
